@@ -1,9 +1,9 @@
 % Vedtekter
-% Linjeforeningen for Informatikk: Språkteknologi (LI:ST)
-% 26. februar 2025
+% Linjeforeningen for Maskinlæring og Kunstig Intellgens (MA:KI)
+% 6. juni 2025
 
 # §1 - Formålsparagraf
-1. Foreningens navn er Linjeforeningen for Informatikk: Språkteknologi (LI:ST).
+1. Foreningens navn er Linjeforeningen for Maskinlæring og Kunstig Intellgens (MA:KI).
 2. Foreningens formål er å ivareta interessene til studentene ved studieprogrammene i I:ST og Informatikk: maskinlæring og kunstig intelligens. Dette gjøres gjennom å styrke det faglige og sosiale miljøet blant studentene på programrommet til I:ST og Informatikk: maskinlæring og kunstig intelligens.
 3. Foreningen skal også arbeide for god kontakt mellom studentene og studieprogrammets ledelse.
 
@@ -44,6 +44,7 @@
 1. Vedtektene er det øverste styringsdokument til foreningen. Styret, og generalforsamlingen, kan vedta retningslinjer som supplerer eller utbroderer vedtektene. Styret har ansvaret for at medlemmene er kjent med de gjeldende dokumentene. 
 2. Forslag til vedtektsendringer skal være styret i hende senest 2 dager før generalforsamling.
 3. Endring av vedtektene kan bare skje når 2/3 av de stemmeberettigede stemmer for.
+4. Styret gis frihet til å gjøre redaksjonelle endringer i vedtektene. Redaksjonelle endringer må meldes til foreningen.
 
 # §6 - Økonomi
 1. Foreningens midler skal brukes i henhold til foreningens formål.
@@ -57,7 +58,7 @@
 
 # §8 - Mistillit
 1. Mistillitsforslag overfor foreningens styremedlemmer skal behandles på generalforsamling, og må få 2/3 flertall for å bli vedtatt.
-2. Enhver student i LI:ST kan stille mistillitsforslag.
+2. Enhver student i MA:KI kan stille mistillitsforslag.
 
 # §9 - Oppløsning
 1. Foreningen kan oppløses ved at 2/3 av de stemmeberettigede på to etterfølgende ordinære generalforsamlinger stemmer for oppløsning. Ved oppløsning vil midler og eiendeler overføres Fordelingsutvalget (FU) ved Institutt for Informatikk (IFI).
